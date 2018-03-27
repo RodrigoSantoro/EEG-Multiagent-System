@@ -1,0 +1,16 @@
+MAS finalproject {
+
+	infrastructure: Centralised
+	
+	environment: World
+
+	agents:
+		overseeing_agent;
+		parietal_agent #2;
+		frontal_agent #2;
+		occipital_agent #2;
+		temporal_agent #2;
+
+	aslSourcePath:
+		"src/asl";
+}
